@@ -8,7 +8,7 @@
 2. Запусти: `streamlit run app.py`
 
 ## Видео
-[Ссылка на видео демонстрацию]
+(https://1drv.ms/v/c/ceb0a2c257ccb8be/IQAc8VplUVA-SLBT0MIQuSGSAT1AiRJUg_rJaDLb0oD7ZGY?e=EuJZnA)
 
 ## Файлы
 - app.py - главный файл
