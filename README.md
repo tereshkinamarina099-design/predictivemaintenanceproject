@@ -1,1 +1,16 @@
-# predictivemaintenanceproject
+# Проект: Бинарная классификация для предиктивного обслуживания
+
+## Описание
+Предсказание отказа оборудования с помощью Random Forest.
+
+## Запуск
+1. Установи зависимости: `pip install -r requirements.txt`
+2. Запусти: `streamlit run app.py`
+
+## Видео
+[Ссылка на видео демонстрацию]
+
+## Файлы
+- app.py - главный файл
+- analysisandmodel.py - анализ и модель
+- presentation.py - презентация
